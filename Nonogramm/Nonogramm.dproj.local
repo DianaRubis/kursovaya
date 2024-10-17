@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.135,D:\Nonogramm\Nonogramm\Unit3.pas=D:\Nonogramm\ready\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,D:\Nonogramm\Nonogramm\Unit2.pas=D:\Nonogramm\ready\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,D:\Лр делфи\Unit2.dfm=D:\курсач\3\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,D:\курсач\3\Unit4.pas=D:\курсач\3\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,=D:\курсач\3\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,D:\курсач\3\Unit4.pas=D:\курсач\3\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,D:\Лр делфи\Unit2.dfm=D:\Лр делфи\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.526,D:\курсач\3\Unit4.dfm=D:\курсач\3\Unit5.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,D:\курсач\3\Unit4.dfm=D:\курсач\3\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,D:\Лр делфи\Unit3.dfm=D:\Лр делфи\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,D:\Nonogramm\Nonogramm\Unit1.dfm=D:\Nonogramm\ready\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.625,D:\Nonogramm\Nonogramm\Unit2.dfm=D:\Nonogramm\ready\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.135,D:\Nonogramm\Nonogramm\Unit3.dfm=D:\Nonogramm\ready\Unit3.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.395,=D:\курсач\3\Unit5.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.739,D:\Лр делфи\Unit2.pas=D:\Лр делфи\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.786,=D:\Лр делфи\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.070,=D:\Лр делфи\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\Nonogramm\Nonogramm\Unit4.pas=D:\Nonogramm\ready\Unit4.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.921,D:\Nonogramm\Nonogramm\Nonogramm.dproj=D:\Nonogramm\ready\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,D:\Лр делфи\Unit2.pas=D:\курсач\3\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.994,D:\Лр делфи\Project1.dproj=D:\курсач\3\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,D:\Лр делфи\Unit1.dfm=D:\курсач\3\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.669,D:\Лр делфи\Unit3.pas=D:\Лр делфи\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.142,=D:\Лр делфи\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.777,D:\Лр делфи\Unit1.pas=D:\курсач\3\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.955,D:\Nonogramm\Nonogramm\Unit1.pas=D:\Nonogramm\ready\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.683,D:\Nonogramm\Nonogramm\Unit4.dfm=D:\Nonogramm\ready\Unit4.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
